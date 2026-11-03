@@ -1,0 +1,3 @@
+.gate
+node_modules
+src/__pycache__

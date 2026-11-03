@@ -1,0 +1,6 @@
+{
+  "name": "pi-annotations",
+  "private": true,
+  "type": "module",
+  "description": "Sidecar repo annotations for pi: annotate files/symbols/line-ranges via a tool, injected into read/grep results"
+}
